@@ -15,4 +15,4 @@ At the end of the file add the following lines with the correct path to the need
 
 -javaagent:/<PATH-TO-JAR>/lombok-0.11.6.jar
 -Xbootclasspath/a:/<PATH-TO-JAR>/lombok-0.11.6.jar
--Xbootclasspath/a:/<PATH-TO-JAR>/lombok_soplet.jar
+-Xbootclasspath/a:/<PATH-TO-JAR>/org.soplets.lombok.jar
